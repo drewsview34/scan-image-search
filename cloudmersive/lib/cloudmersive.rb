@@ -1,6 +1,3 @@
-require "cloudmersive/version"
+require "/mnt/c/Users/drews/flatiron/labs/scan-image-search/cloudmersive/config/environment.rb"
 
-module Cloudmersive
-  class Error < StandardError; end
-  # Your code goes here...
-end
+
